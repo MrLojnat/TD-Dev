@@ -10,3 +10,4 @@
 Cette commande nous demande d'entrer une "PEM key" pour finaliser la création de la clé
 - `openssl rsa -in server_des3.key -pubout > server_des3.pub` \
 La même "PEM key" est demandée afin de créer la clé publique à partir de la clé privée
+- La PEM key utilisée dans cet exemple est "TEST"
